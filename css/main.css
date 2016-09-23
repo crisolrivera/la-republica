@@ -1,0 +1,22 @@
+li{
+	display: inline-block;
+	float:left;
+	margin-right:20px;
+
+}
+		
+.logo{ 
+	padding: 30px;
+
+}	
+
+.parra{
+	border: 2px solid #dadada;
+	border-radius:6px;
+	border-bottom: red 4px solid;
+	padding: 30px;
+	height: 100px;
+	width: 300px;
+	
+}
+
